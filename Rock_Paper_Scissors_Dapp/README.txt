@@ -1,0 +1,1 @@
+This is a basic implementation of the Rock Paper Scissors game as a dApp on BSC Testnet. You have to enter the amount in tBNB(minimal amount is 0.0001 tBNB), and then choose the object you want to play with(rock, paper, or scissors), and press on it. The dApp also displays your game history(you wins and losses), you can press "Game History" Button to view ir.
